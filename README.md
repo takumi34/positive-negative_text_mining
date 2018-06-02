@@ -6,7 +6,9 @@
 
 単語感情極性対応表 <http://www.lr.pi.titech.ac.jp/~takamura/pndic_ja.html>(accessed 2018-6-1)を使用。
 
+以下のような表が作成できた。
 
+![default](https://user-images.githubusercontent.com/34294333/40873324-278560d6-6699-11e8-96ca-793be686939f.png)
 
 
 

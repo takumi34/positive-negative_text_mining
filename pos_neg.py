@@ -34,8 +34,8 @@ meishi = list(df[df['d']=='名詞-一般']['a'])
 
 #名詞を抽出
 pn =[]
-for sentense in meishi:
-    for i in sentense:
+for sentence in meishi:
+    for i in sentence:
         pn.append(pandic.get(i))
 
 #Noneの文字を消す
